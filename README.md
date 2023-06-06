@@ -1,3 +1,7 @@
+# Example
+![animation](https://github.com/SaulMoreyra/react-native-lottie-animation/assets/43731088/1755c0f4-9adf-4502-aae3-7a4c81f19ea2)
+
+
 # TypeScript Example
 
 <p>
